@@ -1,0 +1,78 @@
+[
+    {
+        "id":1,
+        "name":"Sakız",
+        "price":0.5,
+        "image":"https://st3.myideasoft.com/idea/gm/43/myassets/products/490/43490-1.jpg?revision=1633092880"
+
+    },
+    {
+        "id":2,
+        "name":"T-shirt",
+        "price":300,
+        "image":"https://wwfmarket.com/cdn/shop/files/T1-Cooling-Spray-Basic-Tshirt-Low.jpg?v=1683113094&width=1400"
+    },
+    {
+        "id":3,
+        "name":"Pantolon",
+        "price":600,
+        "image":"https://www.aksesuarix.com/UserFiles/Fotograflar/org/75640-thunder-print-erkek-baggy-jean-pantolon-us3743sy-us3743sy-us3743sy-01.jpg"
+    },
+    {
+        "id":4,
+        "name":"Güneş Kremi",
+        "price":200,
+        "image":"https://m.media-amazon.com/images/I/517K+w5N1jL.jpg"
+    },
+    {
+        "id":5,
+        "name":"Sakız",
+        "price":0.5,
+        "image":"https://st3.myideasoft.com/idea/gm/43/myassets/products/490/43490-1.jpg?revision=1633092880"
+
+    },
+    {
+        "id":6,
+        "name":"T-shirt",
+        "price":300,
+        "image":"https://wwfmarket.com/cdn/shop/files/T1-Cooling-Spray-Basic-Tshirt-Low.jpg?v=1683113094&width=1400"
+    },
+    {
+        "id":7,
+        "name":"Pantolon",
+        "price":600,
+        "image":"https://www.aksesuarix.com/UserFiles/Fotograflar/org/75640-thunder-print-erkek-baggy-jean-pantolon-us3743sy-us3743sy-us3743sy-01.jpg"
+    },
+    {
+        "id":8,
+        "name":"Güneş Kremi",
+        "price":200,
+        "image":"https://m.media-amazon.com/images/I/517K+w5N1jL.jpg"
+    },
+    {
+        "id":1,
+        "name":"Sakız",
+        "price":0.5,
+        "image":"https://st3.myideasoft.com/idea/gm/43/myassets/products/490/43490-1.jpg?revision=1633092880"
+
+    },{
+        "id":9,
+        "name":"T-shirt",
+        "price":300,
+        "image":"https://wwfmarket.com/cdn/shop/files/T1-Cooling-Spray-Basic-Tshirt-Low.jpg?v=1683113094&width=1400"
+    },
+    {
+        "id":10,
+        "name":"Pantolon",
+        "price":600,
+        "image":"https://www.aksesuarix.com/UserFiles/Fotograflar/org/75640-thunder-print-erkek-baggy-jean-pantolon-us3743sy-us3743sy-us3743sy-01.jpg"
+    },
+    {
+        "id":11,
+        "name":"Güneş Kremi",
+        "price":200,
+        "image":"https://m.media-amazon.com/images/I/517K+w5N1jL.jpg"
+    }
+
+
+]
